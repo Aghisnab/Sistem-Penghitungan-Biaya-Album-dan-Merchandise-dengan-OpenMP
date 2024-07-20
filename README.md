@@ -1,0 +1,1 @@
+# Sistem-Penghitungan-Biaya-Album-dan-Merchandise-dengan-OpenMP
